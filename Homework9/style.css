@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+.pinkDiv {
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+}
+
+.bigDiv {
+    width: 150px;
+    height: 150px;
+    background-color: aqua;
+}
